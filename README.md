@@ -1,5 +1,5 @@
 # VEHICLE SERVICE MANAGEMENT
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Anurag%20Singh-red)
 ---
 ## SCREENSHOTS
 ### Home Page
@@ -11,7 +11,7 @@
 ### Mechanic Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/mechanic_dashboard.png?raw=true)
 ### Customer Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/customer_dashboard.png?raw=true)
+![dashboard snap](https://github.com/anuragsingh1503/vehicleservicemanagement/blob/master/static/screenshots/customer_dashboard.png?raw=true)
 ---
 ## FUNCTIONS
 ## Customer
